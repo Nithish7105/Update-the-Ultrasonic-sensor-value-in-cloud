@@ -1,4 +1,4 @@
-# EXPERIMENT 6: Update the Ultrasonic sensor value in Things Mate
+# EXPERIMENT : Update the Ultrasonic sensor value in Things Mate
 ## NAME : NITHISH KUMAR.B
 ## REGISTER NO: 212223040134
 # AIM:
